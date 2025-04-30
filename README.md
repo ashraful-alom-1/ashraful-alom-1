@@ -1,12 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F104c2734-3204-4c19-8b16-19c5bbf0575c%3Fx-amz-checksum-mode%3DENABLED%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4Q4QHSYODJ%252F20250430%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20250430T165213Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D8a253ed5b9bfff92e10d2d10d5066f6620fe0ea9905ce562aa095cb23b9e67eb&sign=5dBlO52NBHDaDiW2_kYtFDeCyxzd2OjJOU0uptNtVuY" alt="Ashraful Alom Banner" />
+  <img src="https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F032dfd24-7d31-4e91-be29-a48348efe670%3Fx-amz-checksum-mode%3DENABLED%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4Q4QHSYODJ%252F20250430%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20250430T172322Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D44067aab468163345d8933de12bcb4b1bdd55d98b44db6e6e47ede26b797f9de&sign=TKGBF-fgz768k6R15NGz_eUxXzFatjfOS827lu_D9V8" alt="Ashraful Alom Banner" />
 </p>
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ashraful Alom</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Passionate+Frontend+Developer;Lover+of+Clean+UI%2FUX;Learning+React+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Passionate+Frontend+Developer;Problem+Solver;Learning+React+%26+Node.js" alt="Typing SVG" />
 </p>
 
 ---
