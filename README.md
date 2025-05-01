@@ -9,6 +9,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Passionate+Frontend+Developer;Problem+Solver;Learning+React+%26+Node.js" alt="Typing SVG" />
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashraful-alom-1&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
