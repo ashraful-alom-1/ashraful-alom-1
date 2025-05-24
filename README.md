@@ -69,7 +69,7 @@
   <a href="https://www.instagram.com/codehub_01/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@CodeHub-f4r" target="_blank">
+  <a href="https://www.youtube.com/@shorts-w5k" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
