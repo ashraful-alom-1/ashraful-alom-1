@@ -1,5 +1,5 @@
-<!-- Banner Image -->
-![logo](https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2F38ed82cf-1d78-46ff-9baa-c43d6bf9961e%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4Q4QHSYODJ%252F20250524%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20250524T032735Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D8e29b4e478fd19f4efe3f525bb78cb8a05e32d6368ac8bfcd952e4e940042da1&sign=1Qgc_c3gxwh4RmbZLeoLosBDGQSVzvpX0-cazr5KT7g)
+![image](https://github.com/user-attachments/assets/38043882-d0bc-498e-8478-c7a7d3e5deb9)
+
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ashraful Alom</h1>
