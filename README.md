@@ -1,11 +1,14 @@
-![image](https://github.com/user-attachments/assets/1852c5d1-9d76-4535-995d-22e104b1efd7)
+![image](https://github.com/ashraful-alom-1/banner/blob/main/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png?raw=true)
 
 
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ashraful Alom</h1>
+<h3 align="center">Full Stack Developer </h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Passionate+Frontend+Developer;Problem+Solver;Learning+React+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=550&lines=Full-Stack-Developer;Quick+Learner;Problem+Solver;Learning+React;Learning+Node.js" alt="Typing SVG" />
+
 </p>
 
 <!-- Profile Views -->
@@ -17,11 +20,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on building responsive web applications  
-- 🌱 I’m improving my skills in **React.js** and **Node.js**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Excel tricks, and C/C++ logic**  
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at J.C. Bose University, YMCA (2022–2026)  
+- 🔭 Currently working on **Responsive Web Applications & Projects**  
+- 🌱 Improving skills in **React.js**, **Node.js**, **Cloud Computing**, and **IoT**  
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Git/GitHub, and Excel tricks**  
 - 📫 Reach me at **ashraful.abh@gmail.com**  
-- ⚡ Fun fact: I love mixing design with logic to build beautiful, functional UIs
+- ⚡ Fun fact: I enjoy **Photography, Travelling, and Football**
 
 ---
 
@@ -34,7 +38,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 
 ### 🧠 Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -42,9 +45,34 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🧰 Tools & Software
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- 🛒 **E-Commerce Website** — Online shopping platform with product listings  
+- 🚗 **Car Showroom Website** — Responsive UI with modern layout  
+- 🌍 **Travel Website** — Tour packages with booking system  
+- 🔐 **Basic Login Page** — Simple authentication UI  
+- 🎓 **E-Learning Platform** — Online learning website  
+- ⚖️ **Justice Desk Website** — Multi-page professional advocates site  
+- 🧮 **Interactive Calculator** — Functional calculator with keyboard support  
+- 💻 **C Language Programs** — Problem-solving with C  
+
+---
+
+## 📜 Certifications
+
+- HTML — KG Coding  
+- CSS — Complete Coding  
+- NPTEL: Air Pollution — IIT Roorkee  
+- NPTEL: IoT — IIT Kharagpur  
+- NPTEL: Cloud Computing — IIT Kharagpur  
 
 ---
 
@@ -67,11 +95,11 @@
   <a href="mailto:ashraful.abh@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/codehub_01/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://github.com/ashraful-alom-1">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@shorts-w5k" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <a href="https://ashraful-alom-1.github.io/portfolio-fullstack/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
