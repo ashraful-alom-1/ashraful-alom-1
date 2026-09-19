@@ -1,4 +1,4 @@
-![image](https://github.com/ashraful-alom-1/banner/blob/main/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png?raw=true)
+![image](ChatGPT Image Sep 19, 2026, 08_01_20 AM.png)
 
 
 
